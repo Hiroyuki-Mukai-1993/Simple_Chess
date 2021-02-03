@@ -1,0 +1,2 @@
+C:\Simple_Chess\Debug\Simple_Chess.exe
+C:\Simple_Chess\Debug\Simple_Chess.pdb
