@@ -1,2 +1,10 @@
-﻿  DrawManager.cpp
-  Simple_Chess.vcxproj -> C:\Simple_Chess\Debug\Simple_Chess.exe
+﻿  Board.cpp
+  DrawManager.cpp
+  Game.cpp
+  InputManager.cpp
+  LoadManager.cpp
+  MainManager.cpp
+  Piece.cpp
+  Simple_Chess.cpp
+  コードを生成中...
+  Simple_Chess.vcxproj -> C:\Users\Hiroyuki\OneDrive\デスクトップ\Simple_Chess-master\Debug\Simple_Chess.exe

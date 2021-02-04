@@ -1,2 +1,4 @@
 C:\Simple_Chess\Debug\Simple_Chess.exe
 C:\Simple_Chess\Debug\Simple_Chess.pdb
+C:\Users\Hiroyuki\OneDrive\デスクトップ\Simple_Chess-master\Debug\Simple_Chess.exe
+C:\Users\Hiroyuki\OneDrive\デスクトップ\Simple_Chess-master\Debug\Simple_Chess.pdb
